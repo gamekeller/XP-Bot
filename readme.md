@@ -24,13 +24,13 @@ Description of Database:
    "teamspeakConnections":[                                                                 
          {                                                                                     
             "_id":{                                                                         <-- unique userid from ts3 database
-               "$oid":"5c72cb5c4856570536f901ee"
+               "$oid":"1234"
             },
             "clientId":14,                                                                  <-- current client id
-            "nickname":"Juri",                                                              <-- current nickname
+            "nickname":"xxx",                                                              <-- current nickname
             "connectedAt":1551012544079,                                                    <-- start of this Connection
             "currentChannel":{                                              
-               "name":"Autismo Risto",                                                      <-- name and id of channel the user is currently in 
+               "name":"tzest test",                                                      <-- name and id of channel the user is currently in 
                "id":138840
            }
         }
