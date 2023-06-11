@@ -1,0 +1,19 @@
+{
+    "xp": 
+    {
+        "levelXpKey": [100, 3000, 5000, 7000, 9000, 10000, 11000, 12000, 13000, 14000],
+        "nextXpKey": 5,
+        "nextRank": [
+            {"User":{
+                "levelNeeded": 56
+            }},
+            {"Stammuser": {
+                "levelNeeded": 200
+            }}
+        ],
+        "tickLength": 1,
+        "boostDuration": 120,
+        "eachTick": 20,
+        "eachTickBoosted": 100
+    }
+}
